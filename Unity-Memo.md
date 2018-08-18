@@ -21,7 +21,13 @@ e até mesmo `var AA3 = 5`, que o programa automáticamente irá reconhecer que 
 Exemplos :<br>`public float peso;` <br>`bool running = true;`<br> `int idade = 30;`<br>`var x = false`<br><br>
 public + var = da acesso ao dev ou programa colocar valores nela.<br>
 protected + var = só pode ser acessada pelo própio algoritmo.
- 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ### Estrutura basica do Unity
 <pre>
 using UnityEngine;
