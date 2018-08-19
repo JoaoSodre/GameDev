@@ -54,7 +54,7 @@ E `Update ()` irá funcionar de tempos em tempos baseado no clock do processador
 
 `Vector3 A1 = transform.position` -> Irá pegar as cordenadas do objeto (x, y, z) e colocar na variável `A1` (Do Tipo Vector 3)<br>
 `Time.deltaTime` = Calcula quanto que é 1 segundo baseado nos frame rates.<br><br>
-**É SEMPRE Recomendável usar Time.deltaTime no Update() devido aos frames de diferentes computadores**<br><br>
+**É SEMPRE Recomendável usar Time.deltaTime no Update() devido a frame rates de diferentes computadores**<br><br>
 
 Exemplo de Algoritmo:
 <pre>
