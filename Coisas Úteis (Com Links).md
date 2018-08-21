@@ -4,3 +4,4 @@
 * [Ponto no centro da tela](https://youtu.be/au2Fyq9wX48?t=5m53s)
 * [Shader Cartoon (Com outlines)](https://www.youtube.com/watch?reload=9&v=3qBDTh9zWrQ)
 * [Dolly Zoom Effect](https://youtu.be/epvviNA2cFA)
+* [Como Usar o Cinema Themes (Shader)](https://youtu.be/Nm0ySOgnqPE)
