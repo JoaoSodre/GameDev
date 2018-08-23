@@ -1,4 +1,4 @@
-### Modifier: Screw
+### Modifier: Screw (Parafusar)
 Usa uma aresta e gira em torno dela de acordo com seu eixo de origem.
 
 ## Antes (Edit Mode, Vertices, Ctrl+Click)
