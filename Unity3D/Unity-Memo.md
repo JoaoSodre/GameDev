@@ -30,3 +30,7 @@ O Objeto irá pra direção Z uma unidade (1.0f) por segundo.<br>
 ### Colisões
 `OnCollisionStay()` = <br>
 `OnCollisionEnter()`
+`OnCollisionExit()` = <br><br>
+`OnTriggerEnter()`  
+`OnTriggerStay()`
+`OnTriggerExit()`
