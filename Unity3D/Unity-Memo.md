@@ -6,6 +6,7 @@
 `Update ()` = Será chamado a cada frame (Exemplo: Jogo a 60fps, ele vai ser chamado 60 vezes).<br>
 `FixedUpdate ()` = Exatamente igual ao `Update()`, porém será chamado em *_tempos iguais_*.
 
+
 ### _Alguns_ Códigos Unity
 
 `Vector3 A1 = transform.position` -> Irá pegar as cordenadas do objeto (x, y, z) e colocar na variável `A1`<br>
@@ -25,3 +26,7 @@ void Update()
 O Objeto irá pra direção Z uma unidade (1.0f) por segundo.<br>
 
 **Nota:** `pos.z += (1.0f * Time.deltaTime);` também funcionaria nesse caso.
+
+### Colisões
+`OnCollisionStay()` = <br>
+`OnCollisionEnter()`
