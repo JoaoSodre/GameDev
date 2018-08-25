@@ -11,10 +11,10 @@
 
 ### _Alguns_ Códigos Unity
 
-`transform.position`[Vector3] = Irá pegar as cordenadas do objeto (x, y, z)<br>
-`Time.deltaTime`[float] = Calcula quanto que é 1 segundo baseado nos frame rates.<br>
+`transform.position`**[Vector3]** = Irá pegar as cordenadas do objeto (x, y, z)<br>
+`Time.deltaTime`**[float]** = Calcula quanto que é 1 segundo baseado nos frame rates.<br>
 `if (Imput.GetKey("A")) {...}` = Se a tecla A for pressionada...<br>
-`Destroy(casa001)` = Deleta o objeto casa001 do mundo.<br><br>
+`Destroy(casa001)` = Deleta o objeto casa001( **[GameObject]** ) do mundo.<br><br>
 **É SEMPRE Recomendável usar Time.deltaTime no Update() ou FixedUpdate() devido a frame rates de diferentes computadores**<br><br>
 
 Exemplo de Algoritmo:
