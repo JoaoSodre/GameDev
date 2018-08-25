@@ -14,9 +14,7 @@ GameObject | Objeto na Cena | Casa001
 
 `(Tipo de Variável) + (Nome da Variável) = (Valor);`<br>
 ou<br>
-`(Tipo de Variável) + (Nome da Variável);`<br>
-e até mesmo `var AA3 = 5`, que o programa automáticamente irá reconhecer que é inteiro ou qualquer tipo de variável<br><br>
+`(Tipo de Variável) + (Nome da Variável);`<br><br>
 
-Exemplos :<br>`public float peso;` <br>`bool running = true;`<br> `int idade = 30;`<br>`var x = false`<br><br>
-public + var = da acesso ao dev ou programa colocar valores nela.<br>
-protected + var = só pode ser acessada pelo própio algoritmo.
+Exemplos: <br>`public float peso;` <br>`bool running = true;`<br> `int idade = 30;`<br><br>
+<!-- protected + var = só pode ser acessada pelo própio algoritmo. -->
