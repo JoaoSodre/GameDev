@@ -7,7 +7,7 @@
 - [ ]  [The Weekly Coder](https://www.youtube.com/watch?v=aurEgWxDfQQ&list=PLiRrp7UEG13axMHD7Kqdiy30c7ZBu_Zn7) 21 Tutorias
 
 #### Pong
-- [ ]  [Derek Banas](https://www.youtube.com/watch?v=Yk-S8GKNKxM&index=1&list=PLGLfVvz_LVvSYnwKyw9xP5tEn7GSUWwZJ) 3 Tutoriais
+<!-- - [ ]  [Derek Banas](https://www.youtube.com/watch?v=Yk-S8GKNKxM&index=1&list=PLGLfVvz_LVvSYnwKyw9xP5tEn7GSUWwZJ) 3 Tutoriais-->
 - [ ]  [The Weekly Coder](https://www.youtube.com/watch?v=ztOV-GqjTOM&list=PLiRrp7UEG13a3aiu4G09ygfdb-NV7Op7C) 8 Tutoriais
 - [ ]  [Ugpb](https://www.youtube.com/watch?v=7Nd7Is5Jzn8) 20 Tutorials
 - [ ]  [Cria Jogos](https://www.youtube.com/watch?v=18jSDzPZI1U) 15 Tutoriais (Just Watch in high speed till new things)
