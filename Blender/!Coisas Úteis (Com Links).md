@@ -1,5 +1,7 @@
 > Não esqueçer de checar os canais.
 * [Como fazer Uv wrapping/mapping e básico de nodes para texturas](https://youtu.be/ujlCH15v8gw?t=40s)
+* [Detalhe de Quebrado com a Knife Tool](https://www.youtube.com/watch?v=XPoJLie-3T4)
+---
 * [Modelando o Martelo do Thor e Texturizando (PT-BR)](https://www.youtube.com/watch?v=amtQ5SRC47U&list=PLaMfHWsVa-bOyXNAG0VrhRw_MOIi-xZJt)
 * [Criando Personagem de Anime (Inglês)](https://www.youtube.com/watch?v=5Xuf6ODN_xY&list=PLvgIVNDU-Dxjb3eukDF5W0l0-6ShO9OiM)
 * [Fazendo uma Espada no Estilo Cartoon (Modelagem e Texturização) (Inglês)](https://www.youtube.com/watch?v=blzjJ_fIlrs&list=PLcu0P6DnVPHckQSmXD6X4KAzlz5og_Pb4)
