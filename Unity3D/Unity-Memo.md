@@ -1,7 +1,6 @@
 # Unity3D
 
-É necessário usar either `private` ou `public` antes de uma variável, e [depois declarar qual o tipo dela](https://github.com/JoaoSodre/GameDev/blob/master/Unity3D/C%23-Memo.md#alguns-tipos-de-vari%C3%A1veis). <br>
-[Como esconder grandes linhas de código no Unity](https://www.youtube.com/watch?v=E0nYxJt4xmY)
+> É necessário usar either `private` ou `public` antes de uma variável, e [depois declarar qual o tipo dela](https://github.com/JoaoSodre/GameDev/blob/master/Unity3D/C%23-Memo.md#alguns-tipos-de-vari%C3%A1veis).
 
 ### Métodos do Unity
 
