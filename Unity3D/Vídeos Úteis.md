@@ -6,5 +6,6 @@
 * [Shader Cartoon (Com outlines)](https://www.youtube.com/watch?reload=9&v=3qBDTh9zWrQ)
 * [Dolly Zoom Effect](https://youtu.be/epvviNA2cFA)
 * [Como Usar o Cinema Themes (Shader)](https://youtu.be/Nm0ySOgnqPE)
+* [Como esconder grandes linhas de código no Unity](https://www.youtube.com/watch?v=E0nYxJt4xmY)
 ---
 Usar Main Character como Parent de Point Light. 
