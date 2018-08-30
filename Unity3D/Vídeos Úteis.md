@@ -3,6 +3,7 @@
 * [Sitema de porta e chave](https://www.youtube.com/watch?v=qk2faPstZK0),   [2](https://youtu.be/gpgcuO5wEyo)
 * [Como esconder grandes linhas de código no Unity](https://www.youtube.com/watch?v=E0nYxJt4xmY)
 * [Chamar Método por Outro Script](https://www.youtube.com/watch?v=xbXuDgAdoYQ)
+* [Changing scene fog or anything with triggers and how to make invi objects](https://www.youtube.com/watch?v=VycK6edE9Gk)
 ### Design
 * [Shader Cartoon (Com outlines)](https://www.youtube.com/watch?reload=9&v=3qBDTh9zWrQ)
 * [Como Usar o Cinema Themes (Shader)](https://youtu.be/Nm0ySOgnqPE)
