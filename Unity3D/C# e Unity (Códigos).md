@@ -20,7 +20,7 @@ ou<br>
 Exemplos: <br>`public float peso;` <br>`bool running = true;`<br> `int idade = 30;`<br><br>
 <!-- protected + var = só pode ser acessada pelo própio algoritmo. --> 
 
-<br><br><br>
+<br><br><br><br>
 
 # Unity3D
 
@@ -59,4 +59,5 @@ O Objeto irá pra direção Z uma unidade (1.0f) por segundo.<br>
 `OnCollisionStay()` = É Chamado **Todo** frame que o objeto estiver em colisão.<br>
 `OnCollisionEnter()` = É Chamado quando um objeto **Entra** na colisão. <br>
 `OnCollisionExit()` = É Chamado quando um objeto **Sai** da colisão. <br><br>
-O Mesmo se Aplica no `OnTrigger`, porém ele só é ativado quando pelo _Trigger_ do Collider
+O Mesmo se Aplica no `OnTrigger`, porém ele só é ativado quando pelo _Trigger_ do Collider<br>
+Exemplo: `void OnCollisionStay(Collision[Tipo de informação passada] col[Nome da colisão]) {...}`
