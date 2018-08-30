@@ -56,9 +56,7 @@ O Objeto irá pra direção Z uma unidade (1.0f) por segundo.<br>
 **Nota:** `pos.z += (1.0f * Time.deltaTime);` também funcionaria nesse caso.
 
 ### Colisões
-`OnCollisionStay()` = <br>
-`OnCollisionEnter()` = <br>
-`OnCollisionExit()` = <br><br>
-`OnTriggerEnter()` = <br>
-`OnTriggerStay()` = <br>
-`OnTriggerExit()` = <br>
+`OnCollisionStay()` = É Chamado **Todo** frame que o objeto estiver em colisão.<br>
+`OnCollisionEnter()` = É Chamado quando um objeto **Entra** na colisão. <br>
+`OnCollisionExit()` = É Chamado quando um objeto **Sai** da colisão. <br><br>
+O Mesmo se Aplica no `OnTrigger`, porém ele só é ativado quando pelo _Trigger_ do Collider
