@@ -1,5 +1,6 @@
 > Não esqueçer de checar os canais.
 * [Como fazer Uv wrapping/mapping e básico de nodes para texturas](https://youtu.be/ujlCH15v8gw?t=40s)
+* [Create a Castle in Blender in under 60 minutes!](https://www.youtube.com/watch?v=QbSmoZCrP8I)
 * [Detalhe de Quebrado com a Knife Tool](https://www.youtube.com/watch?v=XPoJLie-3T4)
 ---
 * [Modelando o Martelo do Thor e Texturizando (PT-BR)](https://www.youtube.com/watch?v=amtQ5SRC47U&list=PLaMfHWsVa-bOyXNAG0VrhRw_MOIi-xZJt)
