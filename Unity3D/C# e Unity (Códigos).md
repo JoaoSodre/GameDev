@@ -24,7 +24,7 @@ Exemplos: <br>`public float peso;` <br>`bool running = true;`<br> `int idade = 3
 
 # Unity3D
 
-> É necessário usar either `private` ou `public` antes de uma variável, e [depois declarar qual o tipo dela](https://github.com/JoaoSodre/GameDev/blob/master/Unity3D/C%23-Memo.md#alguns-tipos-de-vari%C3%A1veis).
+> É necessário usar either `private` ou `public` antes de uma variável, e [depois declarar qual o tipo dela](https://github.com/JoaoSodre/GameDev/blob/master/Unity3D/C%23%20e%20Unity%20(C%C3%B3digos).md#alguns-tipos-de-vari%C3%A1veis).
 
 ### Métodos do Unity
 
