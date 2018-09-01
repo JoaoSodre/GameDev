@@ -7,6 +7,7 @@
 ### Design
 * [Shader Cartoon (Com outlines)](https://www.youtube.com/watch?reload=9&v=3qBDTh9zWrQ)
 * [Como Usar o Cinema Themes (Shader)](https://youtu.be/Nm0ySOgnqPE)
+* [Como Usar o Post Processing](https://www.youtube.com/watch?v=haz_OUgfPPg)
 * [Sempre usar Normal Map pra da realismo nas texturas.](https://youtu.be/3-EonLZW5ko?t=1m38s)
 ### Efects
 * [Dolly Zoom Effect](https://youtu.be/epvviNA2cFA)
