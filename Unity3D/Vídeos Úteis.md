@@ -17,6 +17,6 @@
 
 ### Outros
 * [Ponto no centro da tela](https://youtu.be/au2Fyq9wX48?t=5m53s)
-* [UI Basic Features and Tools](https://www.youtube.com/watch?v=_RIsfVOqTaE)
+
 ---
 Usar Main Character como Parent de Point Light. 
