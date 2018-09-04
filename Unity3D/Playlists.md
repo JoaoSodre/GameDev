@@ -2,7 +2,7 @@
 # Básicos
 [Brackey's Playlists](https://www.youtube.com/user/Brackeys/playlists?view=1&sort=dd&shelf_id=0)
 ### Unity Mini-Game
-- [] [Random Art Attack](https://www.youtube.com/watch?v=aEMx7tWwkV8&index=2&list=PLvGDF8WTNEDDNPzowKVujMca9o4UTzHqI) 5 Tutoriais
+- [Random Art Attack](https://www.youtube.com/watch?v=aEMx7tWwkV8&index=2&list=PLvGDF8WTNEDDNPzowKVujMca9o4UTzHqI) 5 Tutoriais
 #### Tetris
 
 - [ ] [Derek Banas](https://www.youtube.com/watch?v=CrkPokBIvEA&index=8&list=PLGLfVvz_LVvSYnwKyw9xP5tEn7GSUWwZJ) 5 Tutoriais
