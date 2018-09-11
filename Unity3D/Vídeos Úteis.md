@@ -4,6 +4,7 @@
 * [Como esconder grandes linhas de código no Unity](https://www.youtube.com/watch?v=E0nYxJt4xmY)
 * [Chamar Método por Outro Script](https://www.youtube.com/watch?v=xbXuDgAdoYQ)
 * [Changing scene fog or anything with triggers and how to make invi objects](https://www.youtube.com/watch?v=VycK6edE9Gk)
+* [Desativa um controller e ativar o outro](https://www.youtube.com/watch?v=DtvJsrh2BxI)
 ### Design
 * [Shader Cartoon (Com outlines)](https://www.youtube.com/watch?reload=9&v=3qBDTh9zWrQ)
 * [Como Usar o Cinema Themes (Shader)](https://youtu.be/Nm0ySOgnqPE)
@@ -19,4 +20,5 @@
 * [Ponto no centro da tela](https://youtu.be/au2Fyq9wX48?t=5m53s)
 
 <!-- Usar Main Character como Parent de Point Light. 
-Um controller dentro e outro e quando dar trigger, desativar um e ativar o outro -->
+Um controller dentro e outro e quando dar trigger, desativar um e ativar o outro https://www.youtube.com/watch?v=DtvJsrh2BxI
+-->
