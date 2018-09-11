@@ -18,5 +18,5 @@
 ### Outros
 * [Ponto no centro da tela](https://youtu.be/au2Fyq9wX48?t=5m53s)
 
----
-Usar Main Character como Parent de Point Light. 
+<!-- Usar Main Character como Parent de Point Light. 
+Um controller dentro e outro e quando dar trigger, desativar um e ativar o outro -->
