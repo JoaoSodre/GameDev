@@ -5,6 +5,7 @@
 * [Chamar Método por Outro Script](https://www.youtube.com/watch?v=xbXuDgAdoYQ)
 * [Changing scene fog or anything with triggers and how to make invi objects](https://www.youtube.com/watch?v=VycK6edE9Gk)
 * [Desativa um controller e ativar o outro](https://www.youtube.com/watch?v=DtvJsrh2BxI)
+* [Esconder e Travar mouse mesmo com alt-tab](https://www.youtube.com/watch?v=eFztJ0gzBwE)
 ### Design
 * [Shader Cartoon (Com outlines)](https://www.youtube.com/watch?reload=9&v=3qBDTh9zWrQ)
 * [Como Usar o Cinema Themes (Shader)](https://youtu.be/Nm0ySOgnqPE)
