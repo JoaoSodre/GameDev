@@ -12,6 +12,8 @@ GameObject | Objeto na Cena | Casa001
 
 ### Syntax
 
+> É necessário usar either `private` ou `public` antes de uma variável, e [depois declarar qual o tipo dela](https://github.com/JoaoSodre/GameDev/blob/master/Unity3D/C%23%20e%20Unity%20(C%C3%B3digos).md#alguns-tipos-de-vari%C3%A1veis) quando estiver usando **Unity Engine**.
+
 `(Tipo de Variável) + (Nome da Variável) = (Valor) ;`<br>
 `(Tipo de Variável) + (Nome da Variável) ;`<br>
 `(Tipo de Variável) + (Nome da Variável) , (Nome de outra Variável) , ... ;` <br><br>
@@ -22,8 +24,6 @@ Exemplos: <br>`float peso;` <br>`bool running = true;`<br> `int idade = 30;`<br>
 <br><br><br><br>
 
 # Unity3D
-
-> É necessário usar either `private` ou `public` antes de uma variável, e [depois declarar qual o tipo dela](https://github.com/JoaoSodre/GameDev/blob/master/Unity3D/C%23%20e%20Unity%20(C%C3%B3digos).md#alguns-tipos-de-vari%C3%A1veis).
 
 ### Métodos do Unity
 
@@ -59,4 +59,4 @@ O Objeto irá pra direção Z uma unidade (1.0f) por segundo.<br>
 `OnCollisionEnter()` = É Chamado quando um objeto **Entra** na colisão. <br>
 `OnCollisionExit()` = É Chamado quando um objeto **Sai** da colisão. <br>
 O Mesmo se Aplica no `OnTrigger`, porém ele só é ativado quando pelo _Trigger_ do Collider<br><br>
-Exemplo: `void OnCollisionStay ( Collision [Tipo de informação passada]  col [Nome da colisão] ) { ... }`
+Exemplo: `void OnCollisionStay ( Collision[Tipo de informação passada]  col[Nome da colisão] ) { ... }`
