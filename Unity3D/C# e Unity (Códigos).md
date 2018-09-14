@@ -18,7 +18,7 @@ GameObject | Objeto na Cena | Casa001
 `(Tipo de Variável) + (Nome da Variável) ;`<br>
 `(Tipo de Variável) + (Nome da Variável) , (Nome de outra Variável) , ... ;` <br><br>
 
-Exemplos: <br>`float peso;` <br>`bool running = true;`<br> `int idade = 30;`<br> `public float A1, A2, A3;`<br><br>
+Exemplos: <br>`bool running = true;`<br> `int idade = 30;`<br> `public float A1, A2, A3;`<br><br>
 <!-- protected + var = só pode ser acessada pelo própio algoritmo. --> 
 
 <br><br><br><br>
