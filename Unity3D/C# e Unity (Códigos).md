@@ -37,29 +37,19 @@ Exemplos: <br>`float peso;` <br>`bool running = true;`<br> `int idade = 30;`<br>
 `FixedUpdate ()` = Exatamente igual ao `Update()`, porém será chamado em *_tempos iguais_*.
 
 ### _Alguns_ Códigos Unity
-[`public GameObject casa001;`] <br>
+[Como Desabilitar Componentes](https://unity3d.com/learn/tutorials/topics/scripting/enabling-and-disabling-components?playlist=17117)<br><br>
+`public GameObject casa001;` <br>
 `transform.position`**[Vector3]** = Irá pegar as cordenadas do objeto (x, y, z).<br>
 `Time.deltaTime`**[float]** = Calcula quanto que é 1 segundo baseado nos frame rates.<br>
 `if (Input.GetKey("A")) {...}` = Se a tecla A for pressionada...<br>
 `casa001.SetActive(true/false)`**[bool]** = Habilita ou desabilita o GameObject. <br>
-`Destroy(casa001)` = Deleta o objeto da hierarquia.<br>
-[Como Desabilitar Componentes](https://unity3d.com/learn/tutorials/topics/scripting/enabling-and-disabling-components?playlist=17117)<br><br>
-**É SEMPRE Recomendável usar Time.deltaTime no Update() ou FixedUpdate() devido a frame rates de diferentes computadores**<br><br>
+`Destroy(casa001)` = Deleta o objeto da hierarquia.<br><br>
 
-Exemplo de Algoritmo:
-<pre>
-void FixedUpdate()
-{
-    Vector3 pos = transform.position;
-    pos.z = pos.z + (1.0f * Time.deltaTime);
-    transform.position = pos;      
-}
-</pre>
-O Objeto irá pra direção Z uma unidade (1.0f) por segundo.<br>
-**Nota:** `pos.z += (1.0f * Time.deltaTime);` também funcionaria nesse caso. <br><br><br>
+**É SEMPRE Recomendável usar Time.deltaTime no Update(), FixedUpdate() ou LateUpdate() devido a frame rates de diferentes computadores**
+
 ### Colisões
 `OnCollisionStay()` = É Chamado **Todo** frame que o objeto estiver em colisão.<br>
 `OnCollisionEnter()` = É Chamado quando um objeto **Entra** na colisão. <br>
 `OnCollisionExit()` = É Chamado quando um objeto **Sai** da colisão. <br>
 O Mesmo se Aplica no `OnTrigger`, porém ele só é ativado quando pelo _Trigger_ do Collider<br><br>
-Exemplo: `void OnCollisionStay (Collision[Tipo de informação passada]  col[Nome da colisão]) { ... }`
+Exemplo: `void OnCollisionStay (Collision[Tipo de informação passada]  col[Nome da colisão]) {...}`
