@@ -4,7 +4,7 @@
 Tipos de Var | Significado | Exemplo
 ------------ | ----------- | --------
 string | Texto | "Cidade"
-int | Número inteiro sem<br> Casas Decimais | 50
+int | Número inteiro **sem**<br> Casas Decimais | 50
 float | Número com Casas Decimais | 50.0
 bool | Verdadeiro ou Falso | Lâmpada Acesa?
 Vector3 | Vetor em 3 Dimensões | (0, 10, 5) `x, y, z`
