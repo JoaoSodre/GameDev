@@ -34,7 +34,7 @@ Exemplos: <br>`bool running = true;`<br> `int idade = 30;`<br> `public float A1,
 [Colisões ( )](https://github.com/JoaoSodre/GameDev/blob/master/Unity3D/C%23%20e%20Unity%20(C%C3%B3digos).md#colis%C3%B5es)<br>
 `Start ()` = Só vai serchamado **UMA VEZ** quando o código for ativado.<br>
 `Update ()` = Será chamado a cada frame (Exemplo: Jogo a 60fps, ele vai ser chamado 60 vezes).<br>
-`FixedUpdate ()` = Exatamente igual ao `Update()`, porém será chamado em *_tempos iguais_*.
+`FixedUpdate ()` = Exatamente igual ao `Update()`, porém será chamado em *_tempos iguais_* (Usar co-rotina para definir melhor os tempos).
 
 ### _Alguns_ Códigos Unity
 [Como Desabilitar Componentes](https://unity3d.com/learn/tutorials/topics/scripting/enabling-and-disabling-components?playlist=17117)<br><br>
