@@ -31,7 +31,7 @@ Exemplos: <br>`bool running = true;`<br> `int idade = 30;`<br> `public float A1,
 
 ### Métodos do Unity
 
-[Colisões ( )](https://github.com/JoaoSodre/GameDev/blob/master/Unity3D/Unity-Memo.md#colis%C3%B5es)<br>
+[Colisões ( )](https://github.com/JoaoSodre/GameDev/blob/master/Unity3D/C%23%20e%20Unity%20(C%C3%B3digos).md#colis%C3%B5es)<br>
 `Start ()` = Só vai serchamado **UMA VEZ** quando o código for ativado.<br>
 `Update ()` = Será chamado a cada frame (Exemplo: Jogo a 60fps, ele vai ser chamado 60 vezes).<br>
 `FixedUpdate ()` = Exatamente igual ao `Update()`, porém será chamado em *_tempos iguais_*.
