@@ -44,6 +44,7 @@ Exemplos: <br>`bool running = true;`<br> `int idade = 30;`<br> `public float A1,
 `Input. GetKey, GetKeyDown ou GetKeyUp`**[bool]** = Retorna **sempre** quando estiver **seguranda**, **uma vez** quando for pressionada ou **uma vez** quando soltada, respectivamente. <br>
 `casa001.SetActive(true/false)`**[bool]** = Habilita ou desabilita o GameObject. <br>
 `Destroy(casa001)` = Deleta o objeto da hierarquia.<br><br><br><br>
+<!-- Mathf.Lerp, Mathf.SmoothStep, Mathf.SmoothDamp -->
 
 **É SEMPRE Recomendável usar Time.deltaTime no Update(), FixedUpdate() ou LateUpdate() devido aos frames diferentes**
 <br><br><br>
