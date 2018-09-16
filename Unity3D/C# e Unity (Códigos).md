@@ -37,15 +37,15 @@ Exemplos: <br>`bool running = true;`<br> `int idade = 30;`<br> `public float A1,
 `FixedUpdate ()` = Exatamente igual ao `Update()`, porém será chamado em *_tempos iguais_* (Usar co-rotina para definir melhor os tempos).<br><br>
 
 ### _Alguns_ Códigos Unity
-[Como Desabilitar Componentes](https://unity3d.com/learn/tutorials/topics/scripting/enabling-and-disabling-components?playlist=17117)<br><br>
-`public GameObject casa001;` <br>
+[Como Desabilitar Componentes](https://unity3d.com/learn/tutorials/topics/scripting/enabling-and-disabling-components?playlist=17117)
+<br><br>
+`public GameObject casa001;` <br><br>
 `transform.position`**[Vector3]** = Irá pegar as cordenadas do objeto (x, y, z).<br>
-`Time.deltaTime`**[float]** = Calcula quanto que é 1 segundo baseado nos frame rates.<br>
-`if (Input.GetKey("A")) {...}` = Se a tecla A for pressionada...<br>
+`Input. GetKey, GetKeyDown ou GetKeyUp`**[bool]** = Retorna **sempre** quando estiver **segurado**, uma vez quando pressionada<br> e uma vez quando soltada, respectivamente. <br>
 `casa001.SetActive(true/false)`**[bool]** = Habilita ou desabilita o GameObject. <br>
 `Destroy(casa001)` = Deleta o objeto da hierarquia.<br><br><br><br>
 
-**É SEMPRE Recomendável usar Time.deltaTime no Update(), FixedUpdate() ou LateUpdate() devido a frame rates de diferentes computadores**
+**É SEMPRE Recomendável usar Time.deltaTime no Update(), FixedUpdate() ou LateUpdate() devido aos frames diferentes**
 <br><br><br>
 ### Colisões
 `OnCollisionStay()` = É Chamado **Todo** frame que o objeto estiver em colisão.<br>
