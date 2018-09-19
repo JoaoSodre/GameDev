@@ -1,4 +1,5 @@
 # C#
+
 ### Alguns Tipos de Variáveis
 
 Tipos de Var | Significado | Exemplo
@@ -10,7 +11,9 @@ bool | Verdadeiro ou Falso | Lâmpada Acesa?
 Vector3 | Vetor em 3 Dimensões | (0, 10, 5) `x, y, z`
 GameObject | Objeto na Cena | Casa001
 
-### Syntax
+## Syntaxes
+
+### Variáveis
 
 > É necessário usar either `private` ou `public` antes de uma variável, e [depois declarar qual o tipo dela](https://github.com/JoaoSodre/GameDev/blob/master/Unity3D/C%23%20e%20Unity%20(C%C3%B3digos).md#alguns-tipos-de-vari%C3%A1veis) quando estiver usando **Unity Engine**.
 
@@ -19,7 +22,11 @@ GameObject | Objeto na Cena | Casa001
 `(Tipo de Variável) + (Nome da Variável) , (Nome de outra Variável) , ... ;` <br><br>
 
 Exemplos: <br>`bool running = true;`<br> `int idade = 30;`<br> `public float A1, A2, A3;`<br><br>
-<!-- protected + var = só pode ser acessada pelo própio algoritmo. --> 
+
+
+<!--   ### Coroutines
+Uma Co-Rotina é basicamente uma função com intervalos de **tempo** definidos.
+EX  -->
 
 <br><br><br><br>
 
@@ -31,14 +38,15 @@ Exemplos: <br>`bool running = true;`<br> `int idade = 30;`<br> `public float A1,
 
 ### Métodos do Unity
 
-[Colisões ( )](https://github.com/JoaoSodre/GameDev/blob/master/Unity3D/C%23%20e%20Unity%20(C%C3%B3digos).md#colis%C3%B5es)<br>
-`Start ()` = Só vai serchamado **UMA VEZ** quando o código for ativado.<br>
+[Colisões ( )](https://github.com/JoaoSodre/GameDev/blob/master/Unity3D/C%23%20e%20Unity%20(C%C3%B3digos).md#colis%C3%B5es) = Quando a box de um objeto intersecta com a box de outro objeto.<br>
+`Start ()` = Apenas irá ser chamado **UMA VEZ** quando o script for ativado.<br>
 `Update ()` = Será chamado a cada frame (Exemplo: Jogo a 60fps, ele vai ser chamado 60 vezes).<br>
 `FixedUpdate ()` = Exatamente igual ao `Update()`, porém será chamado em *_tempos iguais_* (Usar co-rotina para definir melhor os tempos).<br><br>
 
 ### _Alguns_ Códigos Unity
 [Como Desabilitar Componentes](https://unity3d.com/learn/tutorials/topics/scripting/enabling-and-disabling-components?playlist=17117)
 <br><br>
+`this.[...]` = Refere-se ao objeto que o script está attached to. <br><br>
 `public GameObject casa001;` <br><br>
 `transform.position`**[Vector3]** = Irá pegar as cordenadas do objeto (x, y, z).<br>
 `Input. GetKey, GetKeyDown ou GetKeyUp`**[bool]** = Retorna **sempre** quando estiver **seguranda**, **uma vez** quando for pressionada ou **uma vez** quando soltada, respectivamente. <br>
@@ -46,7 +54,7 @@ Exemplos: <br>`bool running = true;`<br> `int idade = 30;`<br> `public float A1,
 `Destroy(casa001)` = Deleta o objeto da hierarquia.<br><br><br><br>
 <!-- Mathf.Lerp, Mathf.SmoothStep, Mathf.SmoothDamp -->
 
-**É SEMPRE Recomendável usar Time.deltaTime no Update(), FixedUpdate() ou LateUpdate() devido aos frames diferentes**
+**É SEMPRE Recomendável usar coroutines em alguns casos em vez de Time.deltaTime no Update(), FixedUpdate() ou LateUpdate()**
 <br><br><br>
 ### Colisões
 `OnCollisionStay()` = É Chamado **Todo** frame que o objeto estiver em colisão.<br>
