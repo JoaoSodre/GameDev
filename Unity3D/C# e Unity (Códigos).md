@@ -1,5 +1,5 @@
 # C#
-
+* [Dotnetperls (Exemplos e exercícios de c#)](https://www.dotnetperls.com/)
 ### Alguns Tipos de Variáveis
 
 Tipos de Var | Significado | Exemplo
