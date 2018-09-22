@@ -41,7 +41,7 @@ EX  -->
 [Colisões ( )](https://github.com/JoaoSodre/GameDev/blob/master/Unity3D/C%23%20e%20Unity%20(C%C3%B3digos).md#colis%C3%B5es) = Quando a box de um objeto intersecta com a box de outro objeto.<br>
 `Start ()` = Apenas irá ser chamado **UMA VEZ** quando o script for ativado.<br>
 `Update ()` = Será chamado a cada frame (Exemplo: Jogo a 60fps, ele vai ser chamado 60 vezes).<br>
-`FixedUpdate ()` = Exatamente igual ao `Update()`, porém será chamado em *_tempos iguais_* (Usar co-rotina para definir melhor os tempos).<br><br>
+`FixedUpdate ()` = Exatamente igual ao `Update()`, porém será chamado em *_tempos iguais_* (Usar co-rotina para definir os **intervalos** de tempos).<br><br>
 
 ### _Alguns_ Códigos Unity
 [Como Desabilitar Componentes](https://unity3d.com/learn/tutorials/topics/scripting/enabling-and-disabling-components?playlist=17117)
