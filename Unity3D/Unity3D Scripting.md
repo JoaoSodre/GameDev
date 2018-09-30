@@ -3,7 +3,7 @@
 ### Métodos do Unity
 
 [Colisões ( )]() = Quando a box de um objeto intersecta com a box de outro objeto.<br>
-`Start ()` = Apenas irá ser chamado **UMA VEZ** quando o script for ativado.<br>
+`Start ()` = Apenas irá ser chamado uma vez quando o script for **ativado**. [(Diferença entre Awake e Start)](https://unity3d.com/learn/tutorials/topics/scripting/awake-and-start?playlist=17117)<br>
 `Update ()` = Será chamado a cada frame (Exemplo: Jogo a 60fps, ele vai ser chamado 60 vezes).<br>
 `FixedUpdate ()` = Exatamente igual ao `Update()`, porém será chamado em *_tempos iguais_* (Usar co-rotina para definir os **intervalos** de tempos).<br><br>
 
