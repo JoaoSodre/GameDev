@@ -1,4 +1,5 @@
 # C#
+* [Tutorials Teache - C# (Parecido com W3Schools)](http://www.tutorialsteacher.com/csharp/csharp-tutorials)
 * [Dotnetperls (Exemplos e exercícios de c#)](https://www.dotnetperls.com/)
 
 ### Alguns Tipos de Variáveis
