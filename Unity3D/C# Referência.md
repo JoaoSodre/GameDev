@@ -1,6 +1,7 @@
 # C#
+
 * [Tutorials Teache - C# (Parecido com W3Schools)](http://www.tutorialsteacher.com/csharp/csharp-tutorials)
-* [Dotnetperls (Exemplos e exercícios de c#)](https://www.dotnetperls.com/)
+* [Dotnetperls (Exemplos e exercícios de C#)](https://www.dotnetperls.com/)
 
 ### Alguns Tipos de Variáveis
 
@@ -34,7 +35,7 @@ foreach = varre um array.
 
 ### [Variáveis](https://github.com/JoaoSodre/GameDev/blob/master/Unity3D/C%23%20ScriptsExamples.md#variables)
 
-> É necessário usar either `private` ou `public` antes de uma variável, e [depois declarar qual o tipo dela](https://github.com/JoaoSodre/GameDev/blob/master/Unity3D/C%23%20e%20Unity%20(C%C3%B3digos).md#alguns-tipos-de-vari%C3%A1veis) quando estiver usando **Unity Engine**.
+> É necessário usar either `private` ou `public` antes de uma variável, e [depois declarar qual o tipo dela](https://github.com/JoaoSodre/GameDev/blob/master/Unity3D/C%23%20Refer%C3%AAncia.md#alguns-tipos-de-vari%C3%A1veis) quando estiver usando **Unity Engine**.
 
 `(Tipo de Variável) + (Nome da Variável) = (Valor) ;`<br>
 `(Tipo de Variável) + (Nome da Variável) ;`<br>
