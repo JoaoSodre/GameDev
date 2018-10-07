@@ -14,7 +14,10 @@ Vector3<br>(Unity3D) | Vetor em 3 Dimensões | (0, 10, 5) `x, y, z`
 GameObject<br>(Unity3D) | Objeto na Cena | Casa001
 
 ### Collections
-Hash Array
+
+Hash
+Array
+
 ### Loopings
 
 o `break` é usado para encerar o looping vai para } // if [a==1]{break;}<br>
@@ -25,22 +28,23 @@ do..while = faça a operação primeiro e depois entra no looping.<br>
 for = já determina a quantidade de repetições.<br>
 foreach = varre um array.
 
-<!-- do while, for e foreach(array)  https://unity3d.com/learn/tutorials/topics/scripting/loops?playlist=17117  -->
-
 # Syntaxes
 
-### Variáveis
+> Clique nos titulos para ver mais exemplos práticos de syntaxes.
+
+### [Variáveis](https://github.com/JoaoSodre/GameDev/blob/master/Unity3D/C%23%20ScriptsExamples.md#variables)
 
 > É necessário usar either `private` ou `public` antes de uma variável, e [depois declarar qual o tipo dela](https://github.com/JoaoSodre/GameDev/blob/master/Unity3D/C%23%20e%20Unity%20(C%C3%B3digos).md#alguns-tipos-de-vari%C3%A1veis) quando estiver usando **Unity Engine**.
 
 `(Tipo de Variável) + (Nome da Variável) = (Valor) ;`<br>
 `(Tipo de Variável) + (Nome da Variável) ;`<br>
-`(Tipo de Variável) + (Nome da Variável) , (Nome de outra Variável) , ... ;` <br><br>
-
-Exemplos: <br>`bool running = true;`<br> `int idade = 30;`<br> `public float A1, A2, A3;`<br><br>
+`(Tipo de Variável) + (Nome da Variável) , (Nome de outra Variável) , ... ;`
 
 ### Collections
-Hash Array
+
+Hash 
+Array
+
 ### Loopings
 
 
