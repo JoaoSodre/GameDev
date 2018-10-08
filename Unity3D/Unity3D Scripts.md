@@ -16,7 +16,7 @@
 
 ### Methods e Propeties
 
-> [O que são Classes, Propeties e Methods? (Orientação Objeto)](https://github.com/JoaoSodre/Programacao/blob/master/Logica%20de%20Programacao/Conceitos%20de%20Programa%C3%A7%C3%A3o.md#orienta%C3%A7%C3%A3o-a-objeto)
+> [O que são Classes, Propeties e Methods? (Orientação Objeto)](https://github.com/JoaoSodre/Programacao/blob/master/Logica%20de%20Programacao/Orienta%C3%A7%C3%A3o%20a%20Objeto.md#orienta%C3%A7%C3%A3o-a-objeto)
 
 `transform.position`**[Vector3]** = Irá pegar as cordenadas do objeto (x, y, z).<br>
 `Input. GetKey, GetKeyDown ou GetKeyUp`**[bool]** = Retorna **sempre** quando estiver **seguranda**, **uma vez** quando for pressionada ou **uma vez** quando soltada, respectivamente. <br>
